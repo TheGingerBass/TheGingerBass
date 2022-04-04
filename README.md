@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Noah Bonello, or @TheGingerBass
+- 👀 I’m interested in C++, DEI, Spanish, Hindi, Object Oriented Programming
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: noah.d.bonello@gmail.com
