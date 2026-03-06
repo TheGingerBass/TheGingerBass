@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Noah Bonello, or @TheGingerBass
-- 👀 I’m interested in C++, SQL, R, Object Oriented Programming, DEI, Spanish
-- 🌱 I’m currently learning Javascript and Python
+- 👀 I’m interested in People Management, Healthcare, Wellness, C++, and SQL
+- 🌱 I’m currently learning Python and Korean
 - 📫 How to reach me: noah.d.bonello@gmail.com
