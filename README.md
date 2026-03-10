@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Noah Bonello, or @TheGingerBass
-- 👀 I’m interested in People Management, Healthcare, Wellness, C++, and SQL
-- 🌱 I’m currently learning Python and Korean
+- 👀 I’m interested in people management, healthcare, and wellness/nutrition
 - 📫 How to reach me: noah.d.bonello@gmail.com
